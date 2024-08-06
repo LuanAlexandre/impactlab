@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/IMPACT-LAB/static/css/main.d5289b2f.css",
-    "main.js": "/IMPACT-LAB/static/js/main.6e09e27a.js",
-    "static/media/edital_002_2024.pdf": "/IMPACT-LAB/static/media/edital_002_2024.fbcdb2ed1e523be99c1d.pdf",
-    "static/media/edjard.gif": "/IMPACT-LAB/static/media/edjard.48c4005e1af05cb93e8f.gif",
-    "static/media/ufam_logo.png": "/IMPACT-LAB/static/media/ufam_logo.03e2c2727ce45a7d1e8d.png",
-    "static/media/antonio.jpeg": "/IMPACT-LAB/static/media/antonio.2f48bf38bfa1271bae9a.jpeg",
-    "static/media/james.jpg": "/IMPACT-LAB/static/media/james.04b07b8f0d27de7fb8c5.jpg",
-    "static/media/josepinheiro.gif": "/IMPACT-LAB/static/media/josepinheiro.67c82f1ee62645ea69f0.gif",
-    "static/media/icomp_logo.png": "/IMPACT-LAB/static/media/icomp_logo.5317209e2e641ec3729c.png",
-    "static/media/logo-preto-sem-fundo.png": "/IMPACT-LAB/static/media/logo-preto-sem-fundo.6cf2234c950c836c2ac9.png",
-    "static/media/logo-branco-sem-fundo.png": "/IMPACT-LAB/static/media/logo-branco-sem-fundo.8bdcd9df5d0dd0765755.png",
-    "static/media/felipe.jpeg": "/IMPACT-LAB/static/media/felipe.aad4f3567e7de518b44c.jpeg",
-    "static/media/logo-preto.png": "/IMPACT-LAB/static/media/logo-preto.600948492bdcd939fdbc.png",
-    "static/media/josepio.jpeg": "/IMPACT-LAB/static/media/josepio.77eb1d1a16076b915de8.jpeg",
-    "static/media/lattes.svg": "/IMPACT-LAB/static/media/lattes.0e846b5a8527df8c321343a274fcd3c0.svg",
-    "index.html": "/IMPACT-LAB/index.html",
-    "main.d5289b2f.css.map": "/IMPACT-LAB/static/css/main.d5289b2f.css.map",
-    "main.6e09e27a.js.map": "/IMPACT-LAB/static/js/main.6e09e27a.js.map"
+    "main.css": "/static/css/main.d5289b2f.css",
+    "main.js": "/static/js/main.15b74ca2.js",
+    "static/media/edital_002_2024.pdf": "/static/media/edital_002_2024.fbcdb2ed1e523be99c1d.pdf",
+    "static/media/edjard.gif": "/static/media/edjard.48c4005e1af05cb93e8f.gif",
+    "static/media/ufam_logo.png": "/static/media/ufam_logo.03e2c2727ce45a7d1e8d.png",
+    "static/media/antonio.jpeg": "/static/media/antonio.2f48bf38bfa1271bae9a.jpeg",
+    "static/media/james.jpg": "/static/media/james.04b07b8f0d27de7fb8c5.jpg",
+    "static/media/josepinheiro.gif": "/static/media/josepinheiro.67c82f1ee62645ea69f0.gif",
+    "static/media/icomp_logo.png": "/static/media/icomp_logo.5317209e2e641ec3729c.png",
+    "static/media/logo-preto-sem-fundo.png": "/static/media/logo-preto-sem-fundo.6cf2234c950c836c2ac9.png",
+    "static/media/logo-branco-sem-fundo.png": "/static/media/logo-branco-sem-fundo.8bdcd9df5d0dd0765755.png",
+    "static/media/felipe.jpeg": "/static/media/felipe.aad4f3567e7de518b44c.jpeg",
+    "static/media/logo-preto.png": "/static/media/logo-preto.600948492bdcd939fdbc.png",
+    "static/media/josepio.jpeg": "/static/media/josepio.77eb1d1a16076b915de8.jpeg",
+    "static/media/lattes.svg": "/static/media/lattes.0e846b5a8527df8c321343a274fcd3c0.svg",
+    "index.html": "/index.html",
+    "main.d5289b2f.css.map": "/static/css/main.d5289b2f.css.map",
+    "main.15b74ca2.js.map": "/static/js/main.15b74ca2.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.6e09e27a.js"
+    "static/js/main.15b74ca2.js"
   ]
 }
