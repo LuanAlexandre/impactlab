@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/impactlab/static/css/main.d5289b2f.css",
-    "main.js": "/impactlab/static/js/main.e928ad0d.js",
+    "main.js": "/impactlab/static/js/main.df9f6174.js",
     "static/media/turma1.jpg": "/impactlab/static/media/turma1.645c7f47df1faa4856bf.jpg",
-    "static/media/edital_002_2024.pdf": "/impactlab/static/media/edital_002_2024.fbcdb2ed1e523be99c1d.pdf",
     "static/media/edjard.gif": "/impactlab/static/media/edjard.48c4005e1af05cb93e8f.gif",
+    "static/media/projeto_Impact-Lab_edital_001_2024_selecao_discentes.pdf": "/impactlab/static/media/projeto_Impact-Lab_edital_001_2024_selecao_discentes.46cf7ff42406072a28d2.pdf",
     "static/media/ufam_logo.png": "/impactlab/static/media/ufam_logo.03e2c2727ce45a7d1e8d.png",
     "static/media/antonio.jpeg": "/impactlab/static/media/antonio.2f48bf38bfa1271bae9a.jpeg",
     "static/media/turmaicomp.jpeg": "/impactlab/static/media/turmaicomp.273caf095122d1c04159.jpeg",
@@ -14,15 +14,16 @@
     "static/media/icomp_logo.png": "/impactlab/static/media/icomp_logo.5317209e2e641ec3729c.png",
     "static/media/logo-branco-sem-fundo.png": "/impactlab/static/media/logo-branco-sem-fundo.8bdcd9df5d0dd0765755.png",
     "static/media/felipe.jpeg": "/impactlab/static/media/felipe.aad4f3567e7de518b44c.jpeg",
+    "static/media/joaomarcos.jpeg": "/impactlab/static/media/joaomarcos.9ed3311cd23e3a5f5af2.jpeg",
     "static/media/logo-cor.png": "/impactlab/static/media/logo-cor.2ce0c58b39c2987dc779.png",
     "static/media/josepio.jpeg": "/impactlab/static/media/josepio.77eb1d1a16076b915de8.jpeg",
     "static/media/lattes.svg": "/impactlab/static/media/lattes.0e846b5a8527df8c321343a274fcd3c0.svg",
     "index.html": "/impactlab/index.html",
     "main.d5289b2f.css.map": "/impactlab/static/css/main.d5289b2f.css.map",
-    "main.e928ad0d.js.map": "/impactlab/static/js/main.e928ad0d.js.map"
+    "main.df9f6174.js.map": "/impactlab/static/js/main.df9f6174.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.e928ad0d.js"
+    "static/js/main.df9f6174.js"
   ]
 }
