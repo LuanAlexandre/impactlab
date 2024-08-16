@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/impactlab/static/css/main.d5289b2f.css",
-    "main.js": "/impactlab/static/js/main.a11984df.js",
+    "main.js": "/impactlab/static/js/main.e928ad0d.js",
     "static/media/turma1.jpg": "/impactlab/static/media/turma1.645c7f47df1faa4856bf.jpg",
     "static/media/edital_002_2024.pdf": "/impactlab/static/media/edital_002_2024.fbcdb2ed1e523be99c1d.pdf",
     "static/media/edjard.gif": "/impactlab/static/media/edjard.48c4005e1af05cb93e8f.gif",
@@ -19,10 +19,10 @@
     "static/media/lattes.svg": "/impactlab/static/media/lattes.0e846b5a8527df8c321343a274fcd3c0.svg",
     "index.html": "/impactlab/index.html",
     "main.d5289b2f.css.map": "/impactlab/static/css/main.d5289b2f.css.map",
-    "main.a11984df.js.map": "/impactlab/static/js/main.a11984df.js.map"
+    "main.e928ad0d.js.map": "/impactlab/static/js/main.e928ad0d.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.a11984df.js"
+    "static/js/main.e928ad0d.js"
   ]
 }
