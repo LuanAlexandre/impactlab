@@ -1,26 +1,28 @@
 {
   "files": {
     "main.css": "/impactlab/static/css/main.d5289b2f.css",
-    "main.js": "/impactlab/static/js/main.0cc3d021.js",
+    "main.js": "/impactlab/static/js/main.a11984df.js",
+    "static/media/turma1.jpg": "/impactlab/static/media/turma1.645c7f47df1faa4856bf.jpg",
     "static/media/edital_002_2024.pdf": "/impactlab/static/media/edital_002_2024.fbcdb2ed1e523be99c1d.pdf",
     "static/media/edjard.gif": "/impactlab/static/media/edjard.48c4005e1af05cb93e8f.gif",
     "static/media/ufam_logo.png": "/impactlab/static/media/ufam_logo.03e2c2727ce45a7d1e8d.png",
     "static/media/antonio.jpeg": "/impactlab/static/media/antonio.2f48bf38bfa1271bae9a.jpeg",
+    "static/media/turmaicomp.jpeg": "/impactlab/static/media/turmaicomp.273caf095122d1c04159.jpeg",
+    "static/media/turma3.jpeg": "/impactlab/static/media/turma3.e8f8250b43e34c29437b.jpeg",
     "static/media/james.jpg": "/impactlab/static/media/james.04b07b8f0d27de7fb8c5.jpg",
     "static/media/josepinheiro.gif": "/impactlab/static/media/josepinheiro.67c82f1ee62645ea69f0.gif",
     "static/media/icomp_logo.png": "/impactlab/static/media/icomp_logo.5317209e2e641ec3729c.png",
-    "static/media/logo-preto-sem-fundo.png": "/impactlab/static/media/logo-preto-sem-fundo.6cf2234c950c836c2ac9.png",
     "static/media/logo-branco-sem-fundo.png": "/impactlab/static/media/logo-branco-sem-fundo.8bdcd9df5d0dd0765755.png",
     "static/media/felipe.jpeg": "/impactlab/static/media/felipe.aad4f3567e7de518b44c.jpeg",
-    "static/media/logo-preto.png": "/impactlab/static/media/logo-preto.600948492bdcd939fdbc.png",
+    "static/media/logo-cor.png": "/impactlab/static/media/logo-cor.2ce0c58b39c2987dc779.png",
     "static/media/josepio.jpeg": "/impactlab/static/media/josepio.77eb1d1a16076b915de8.jpeg",
     "static/media/lattes.svg": "/impactlab/static/media/lattes.0e846b5a8527df8c321343a274fcd3c0.svg",
     "index.html": "/impactlab/index.html",
     "main.d5289b2f.css.map": "/impactlab/static/css/main.d5289b2f.css.map",
-    "main.0cc3d021.js.map": "/impactlab/static/js/main.0cc3d021.js.map"
+    "main.a11984df.js.map": "/impactlab/static/js/main.a11984df.js.map"
   },
   "entrypoints": [
     "static/css/main.d5289b2f.css",
-    "static/js/main.0cc3d021.js"
+    "static/js/main.a11984df.js"
   ]
 }
