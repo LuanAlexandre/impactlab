@@ -1,11 +1,6 @@
 import styled from 'styled-components';
 import { Card } from 'react-bootstrap';
-import {
-  colorDois,
-  corCard,
-  corDetails,
-  corTitleFont,
-} from '../../assets/config/color';
+import { corCard, corDetails, corTitleFont } from '../../assets/config/color';
 
 export const StyledCartao = styled(Card)`
   width: 18rem;
@@ -64,5 +59,9 @@ export const StyledCartao = styled(Card)`
 
   .botao-img g {
     fill: #6495ed;
+  }
+
+  .card-text {
+    height: 100px;
   }
 `;

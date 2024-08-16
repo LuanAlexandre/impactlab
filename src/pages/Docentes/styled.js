@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { Container } from 'react-bootstrap';
-import { corDetails } from '../../assets/config/color';
+import { corDetails, corHeader, colorDois } from '../../assets/config/color';
 
 export const MainContent = styled(Container)`
   h2 {
@@ -26,6 +26,8 @@ export const MainContent = styled(Container)`
     display: flex;
     flex-flow: wrap;
     place-content: space-around center;
+    background-color: #eee;
+    border-radius: 5px;
   }
 
   ul {

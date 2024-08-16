@@ -37,7 +37,7 @@ export default function Docentes() {
               ))}
             </Dropdown.Menu>
           </Dropdown> */}
-          <div className="lista-docentes">
+          <div className="lista-docentes py-4">
             {selectedProfessor ? (
               <ul className="list-unstyled">
                 <li>

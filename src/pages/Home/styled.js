@@ -26,10 +26,6 @@ export const MainContent = styled(Container)`
     font-size: 1.5em;
   }
 
-  img {
-    color: ${corHeader};
-  }
-
   .btn,
   .btn:hover,
   .btn:focus,
@@ -50,8 +46,13 @@ export const MainContent = styled(Container)`
     height: 100%;
   }
 
-  .carousel-item,
-  img {
+  .fixed-size {
+    border-radius: 20px;
+    height: 500px;
+  }
+
+  .logo-image-main {
+    color: ${corHeader};
     border-radius: 10px;
   }
 `;
