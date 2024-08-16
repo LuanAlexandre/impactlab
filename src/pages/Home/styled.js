@@ -48,7 +48,8 @@ export const MainContent = styled(Container)`
 
   .fixed-size {
     border-radius: 20px;
-    height: 500px;
+    width: 100%;
+    height: 450px;
   }
 
   .logo-image-main {

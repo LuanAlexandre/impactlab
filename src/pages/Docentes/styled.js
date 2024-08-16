@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { Container } from 'react-bootstrap';
-import { corDetails, corHeader, colorDois } from '../../assets/config/color';
+import { corDetails } from '../../assets/config/color';
 
 export const MainContent = styled(Container)`
   h2 {

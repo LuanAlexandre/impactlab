@@ -32,11 +32,11 @@ export default function Curso() {
               </tr>
               <tr>
                 <th>Dia/Horário:</th>
-                <td>Segunda, Quartas e Quintas; De 18h às 21h;</td>
+                <td>Segunda a Sexta, até 5 vezes na semana</td>
               </tr>
               <tr>
                 <th>Modalidade das Aulas:</th>
-                <td>Híbrido. A critério de cada professor.</td>
+                <td>Presencial, podendo haver aulas online.</td>
               </tr>
               <tr>
                 <th>Local:</th>
@@ -46,8 +46,8 @@ export default function Curso() {
                 </td>
               </tr>
               <tr>
-                <th>Data de Início:</th>
-                <td>19/08/2024</td>
+                <th>Previsão da Data de Início:</th>
+                <td>09/09/2024</td>
               </tr>
             </tbody>
           </Table>
