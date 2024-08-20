@@ -17,6 +17,19 @@ import { Link } from 'react-router-dom';
 export default function Home() {
   return (
     <MainContent>
+      <section className="py-5">
+        <Container className="px-5 my-5">
+          <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+            Venha fazer parte da 4ª Turma!!
+          </h2>
+          <br/>
+            <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+              <Button>
+                <Link to="/editais">INSCREVA-SE</Link>
+              </Button>
+            </div>
+        </Container>
+      </section>
       <header className="imagens">
         <Container className="px-5">
           <div className="row gx-5 align-items-center justify-content-center">
