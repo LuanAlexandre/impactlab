@@ -13,6 +13,8 @@ import {
   faBrazilianRealSign,
 } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
+import { forms } from '../../assets/config/formulario';
+import edital from '../../files/edital_001_2024/projeto_Impact-Lab_edital_001_2024_selecao_discentes.pdf';
 
 export default function Home() {
   return (
@@ -22,12 +24,25 @@ export default function Home() {
           <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
             Venha fazer parte da 4ª Turma!!
           </h2>
-          <br/>
-            <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-              <Button>
-                <Link to="/editais">INSCREVA-SE</Link>
-              </Button>
-            </div>
+          <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+            Inscrições abertas até 26/08
+          </h2>
+          <br />
+          <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+            <Link className="editalhome" to={edital} target="_blank">
+              <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+                Edital 001/2024 - Turma 04
+              </h2>
+            </Link>
+          </div>
+          <br />
+          <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+            <Button>
+              <Link to={forms.url} target="_blank">
+                INSCREVA-SE
+              </Link>
+            </Button>
+          </div>
         </Container>
       </section>
       <header className="imagens">

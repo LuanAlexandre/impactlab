@@ -4,7 +4,6 @@ import felipe from '../images/perfil/felipe.jpeg';
 import james from '../images/perfil/james.jpg';
 import joaomarcos from '../images/perfil/joaomarcos.jpeg';
 import josepio from '../images/perfil/josepio.jpeg';
-import josepinheiro from '../images/perfil/josepinheiro.gif';
 
 export const professores = [
   {
@@ -42,7 +41,7 @@ export const professores = [
     id: 5,
     nome: 'João Marcos Bastos Cavalcanti',
     descricao:
-      'Professor Associado ao Instituto de Computação da Universidade Federal do Amazonas (IComp/UFAM).',
+      'Coordenar do Projeto e Professor Associado ao Instituto de Computação da Universidade Federal do Amazonas (IComp/UFAM).',
     lattes: 'http://lattes.cnpq.br/3537707069694606',
     imagem: joaomarcos,
   },
@@ -53,13 +52,6 @@ export const professores = [
       'Professor Associado e Atual Diretor do Instituto de Computação da Universidade Federal do Amazonas (IComp/UFAM).',
     lattes: 'http://lattes.cnpq.br/1014904168887285',
     imagem: josepio,
-  },
-  {
-    id: 7,
-    nome: 'José Pinheiro de Queiroz Neto',
-    descricao: 'Professor Associado ao Instituto Federal do Amazonas (IFAM).',
-    lattes: 'http://lattes.cnpq.br/8055796489225138',
-    imagem: josepinheiro,
   },
 ];
 

@@ -56,4 +56,9 @@ export const MainContent = styled(Container)`
     color: ${corHeader};
     border-radius: 10px;
   }
+
+  .editalhome {
+    //text-decoration: none;
+    color: ${corHeader};
+  }
 `;

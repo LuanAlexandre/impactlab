@@ -89,7 +89,7 @@ export default function Curso() {
                     câmeras digitais.
                   </tr>
                 </td>
-                <td>José Pinheiro de Queiroz Neto</td>
+                <td>Felipe Gomes de Oliveira</td>
                 <td>30</td>
               </tr>
               <tr>
@@ -100,7 +100,7 @@ export default function Curso() {
                   transformações radiométricas, ruído e filtragem, algoritmos
                   para controle de câmera, princípios de qualidade de imagens.
                 </td>
-                <td>José Pinheiro de Queiroz Neto</td>
+                <td>José Luiz de Souza Pio</td>
                 <td>40</td>
               </tr>
               <tr>
