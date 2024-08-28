@@ -3,7 +3,7 @@ import { MainContent } from './styled';
 import { Container } from 'react-bootstrap';
 import edital from '../../files/edital_001_2024/projeto_Impact-Lab_edital_001_2024_selecao_discentes.pdf';
 import { forms } from '../../assets/config/formulario';
-import homologacao from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_homologacao_inscricoes.pdf';
+import homologacao from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_homologacao_inscricoes_revisada.pdf';
 
 export default function Editais() {
   return (
