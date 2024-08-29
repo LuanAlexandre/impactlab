@@ -14,6 +14,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
 import edital from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_homologacao_inscricoes_revisada.pdf';
+import resultadoPreliminar from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar.pdf';
 
 export default function Home() {
   return (
@@ -24,6 +25,18 @@ export default function Home() {
             <Link className="editalhome" to={edital} target="_blank">
               <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
                 Resultado da Homologação das Inscrições
+              </h2>
+            </Link>
+          </div>
+          <br />
+          <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+            <Link
+              className="editalhome"
+              to={resultadoPreliminar}
+              target="_blank"
+            >
+              <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+                Resultado Preliminar
               </h2>
             </Link>
           </div>

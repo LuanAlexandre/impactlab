@@ -4,6 +4,7 @@ import { Container } from 'react-bootstrap';
 import edital from '../../files/edital_001_2024/projeto_Impact-Lab_edital_001_2024_selecao_discentes.pdf';
 import { forms } from '../../assets/config/formulario';
 import homologacao from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_homologacao_inscricoes_revisada.pdf';
+import resultadoPreliminar from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar.pdf';
 
 export default function Editais() {
   return (
@@ -38,9 +39,13 @@ export default function Editais() {
                   </div>
                   <div className="mb-4">
                     <div className="small text-muted">28 de Agosto, 2024</div>
-                    {/*<a href="" target="_blank" rel="noreferrer">*/}
-                    <h4>Resultado Preliminar</h4>
-                    {/*</a>*/}
+                    <a
+                      href={resultadoPreliminar}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <h4>Resultado Preliminar</h4>
+                    </a>
                   </div>
                   <div className="mb-4">
                     <div className="small text-muted">31 de Agosto, 2024</div>
