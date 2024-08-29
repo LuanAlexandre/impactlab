@@ -38,7 +38,7 @@ export default function Editais() {
                     </a>
                   </div>
                   <div className="mb-4">
-                    <div className="small text-muted">28 de Agosto, 2024</div>
+                    <div className="small text-muted">29 de Agosto, 2024</div>
                     <a
                       href={resultadoPreliminar}
                       target="_blank"
