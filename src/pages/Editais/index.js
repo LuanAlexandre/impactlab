@@ -5,6 +5,7 @@ import edital from '../../files/edital_001_2024/projeto_Impact-Lab_edital_001_20
 import { forms } from '../../assets/config/formulario';
 import homologacao from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_homologacao_inscricoes_revisada.pdf';
 import resultadoPreliminar from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar.pdf';
+import resultadoPreliminarPosRecurso from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar_rev1.pdf';
 
 export default function Editais() {
   return (
@@ -45,6 +46,13 @@ export default function Editais() {
                       rel="noreferrer"
                     >
                       <h4>Resultado Preliminar</h4>
+                    </a>
+                    <a
+                      href={resultadoPreliminarPosRecurso}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <h4>Resultado Preliminar - 1ª Revisão</h4>
                     </a>
                   </div>
                   <div className="mb-4">

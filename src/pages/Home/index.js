@@ -14,7 +14,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
 import edital from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_homologacao_inscricoes_revisada.pdf';
-import resultadoPreliminar from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar.pdf';
+import resultadoPreliminar from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar_rev1.pdf';
 
 export default function Home() {
   return (
