@@ -6,6 +6,7 @@ import { forms } from '../../assets/config/formulario';
 import homologacao from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_homologacao_inscricoes_revisada.pdf';
 import resultadoPreliminar from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar.pdf';
 import resultadoPreliminarPosRecurso from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar_rev1.pdf';
+import resultadoFinal from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_final.pdf';
 
 export default function Editais() {
   return (
@@ -56,10 +57,10 @@ export default function Editais() {
                     </a>
                   </div>
                   <div className="mb-4">
-                    <div className="small text-muted">31 de Agosto, 2024</div>
-                    {/*<a href="" target="_blank" rel="noreferrer">*/}
-                    <h4>Resultado Final</h4>
-                    {/*</a>*/}
+                    <div className="small text-muted">02 de Setembro, 2024</div>
+                    <a href={resultadoFinal} target="_blank" rel="noreferrer">
+                      <h4>Resultado Final</h4>
+                    </a>
                   </div>
                 </div>
               </div>

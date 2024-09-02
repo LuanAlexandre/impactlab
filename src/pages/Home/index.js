@@ -13,8 +13,7 @@ import {
   faBrazilianRealSign,
 } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
-import edital from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_homologacao_inscricoes_revisada.pdf';
-import resultadoPreliminar from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_preliminar_rev1.pdf';
+import resultadoFinal from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_final.pdf';
 
 export default function Home() {
   return (
@@ -22,23 +21,18 @@ export default function Home() {
       <section className="py-5">
         <Container className="px-5 my-5">
           <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-            <Link className="editalhome" to={edital} target="_blank">
+            <Link className="editalhome" to={resultadoFinal} target="_blank">
               <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-                Resultado da Homologação das Inscrições
+                Resultado Final
               </h2>
             </Link>
           </div>
           <br />
           <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-            <Link
-              className="editalhome"
-              to={resultadoPreliminar}
-              target="_blank"
-            >
-              <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-                Resultado Preliminar
-              </h2>
-            </Link>
+            <h4 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
+              Os candidatos selecionados serão contactados por e-mail para
+              tratar da matrícula.
+            </h4>
           </div>
         </Container>
       </section>
