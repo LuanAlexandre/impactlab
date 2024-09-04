@@ -30,8 +30,7 @@ export default function Home() {
           <br />
           <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
             <h4 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-              Os candidatos selecionados serão contactados por e-mail para
-              tratar da matrícula.
+              MATRÍCULA PRORROGADA ATÉ O DIA 06/09, SEXTA-FEIRA
             </h4>
           </div>
         </Container>
