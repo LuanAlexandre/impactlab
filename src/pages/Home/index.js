@@ -13,28 +13,10 @@ import {
   faBrazilianRealSign,
 } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
-import resultadoFinal from '../../files/edital_001_2024/Projeto_Impact-Lab_Edital_001_2024_resultado_final.pdf';
 
 export default function Home() {
   return (
     <MainContent>
-      <section className="py-5">
-        <Container className="px-5 my-5">
-          <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-            <Link className="editalhome" to={resultadoFinal} target="_blank">
-              <h2 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-                Resultado Final
-              </h2>
-            </Link>
-          </div>
-          <br />
-          <div className="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-            <h4 className="fw-bolder mb-0 d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-center">
-              MATRÍCULA PRORROGADA ATÉ O DIA 06/09, SEXTA-FEIRA
-            </h4>
-          </div>
-        </Container>
-      </section>
       <header className="imagens">
         <Container className="px-5">
           <div className="row gx-5 align-items-center justify-content-center">
