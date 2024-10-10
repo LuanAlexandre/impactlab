@@ -29,9 +29,14 @@ export default function Editais() {
                   </div>
                   <div className="mb-4">
                     <div className="small text-muted">31 de Julho, 2024</div>
-                    <a href={forms.url} target="_blank" rel="noreferrer">
+                    {/*<a href={forms.url} target="_blank" rel="noreferrer">
                       <h4>Formulário de Requerimento de Inscrição</h4>
-                    </a>
+                    </a>*/}
+                    <span>
+                      <h4>
+                        Formulário de Requerimento de Inscrição (encerrado)
+                      </h4>
+                    </span>
                   </div>
                   <div className="mb-4">
                     <div className="small text-muted">27 de Agosto, 2024</div>
